@@ -1,0 +1,6 @@
+{
+  "name": "NEON BEAT SNAKE",
+  "description": "A music-driven cyberpunk Snake game powered by an in-browser Web Audio API synthesizer where the beat controls the pace and rhythm combos multiply your score.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
